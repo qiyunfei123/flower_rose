@@ -1,0 +1,30 @@
+{
+  "name": "flower_rose",
+  "version": "1.0.0",
+  "description": "hua",
+  "main": "app.js",
+  "scripts": {
+    "test": "hua",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiyunfei123/flower_rose.git"
+  },
+  "keywords": [
+    "flower"
+  ],
+  "author": "qyf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiyunfei123/flower_rose/issues"
+  },
+  "homepage": "https://github.com/qiyunfei123/flower_rose#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "mysql": "^2.17.1"
+  }
+}
